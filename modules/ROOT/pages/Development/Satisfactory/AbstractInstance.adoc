@@ -42,3 +42,13 @@ You may also find the following properties useful:
 * Use Relative Transform to apply a transform this specific mesh relative to the overall building.
 * If the building has no components set `mContainsComponents` on the buildable to false
 * The "apply random offset" properties can be used to mitigate z-fighting issues when multiple copies of the building overlap.
+
+
+[id="Examples"]
+== Examples
+
+
+=== Resolve Hit on Abstract Instances
+
+
+=== Create, Destory or modify Abstract Instances at runtime
